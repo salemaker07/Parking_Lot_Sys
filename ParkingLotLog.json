@@ -1,0 +1,32 @@
+[
+  {
+    "LicensePlate": "11223343",
+    "EntryTime": "2026-03-26T00:00:39.51219+03:00",
+    "VehicleType": "Car"
+  },
+  {
+    "LicensePlate": "11223344",
+    "EntryTime": "2026-03-26T00:00:39.51219+03:00",
+    "VehicleType": "Car"
+  },
+  {
+    "LicensePlate": "11223346",
+    "EntryTime": "2026-03-26T00:02:21.305642+03:00",
+    "VehicleType": "Car"
+  },
+  {
+    "LicensePlate": "123",
+    "EntryTime": "2026-03-26T00:10:51.798477+03:00",
+    "VehicleType": "Car"
+  },
+  {
+    "LicensePlate": "321",
+    "EntryTime": "2026-03-26T00:11:08.361436+03:00",
+    "VehicleType": "Truck"
+  },
+  {
+    "LicensePlate": "666",
+    "EntryTime": "2026-03-26T00:18:17.521179+03:00",
+    "VehicleType": "Motorcycle"
+  }
+]

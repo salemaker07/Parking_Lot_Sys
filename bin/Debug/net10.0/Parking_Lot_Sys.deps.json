@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Parking_Lot_Sys/1.0.0": {
+        "runtime": {
+          "Parking_Lot_Sys.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Parking_Lot_Sys/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

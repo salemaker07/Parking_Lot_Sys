@@ -1,0 +1,14 @@
+/Users/salemaker/Desktop/c#/Parking_Lot_Sys/obj/Debug/net10.0/Parking_Lot_Sys.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salemaker/Desktop/c#/Parking_Lot_Sys/obj/Debug/net10.0/Parking_Lot_Sys.AssemblyInfoInputs.cache
+/Users/salemaker/Desktop/c#/Parking_Lot_Sys/obj/Debug/net10.0/Parking_Lot_Sys.AssemblyInfo.cs
+/Users/salemaker/Desktop/c#/Parking_Lot_Sys/obj/Debug/net10.0/Parking_Lot_Sys.csproj.CoreCompileInputs.cache
+/Users/salemaker/Desktop/c#/Parking_Lot_Sys/bin/Debug/net10.0/Parking_Lot_Sys
+/Users/salemaker/Desktop/c#/Parking_Lot_Sys/bin/Debug/net10.0/Parking_Lot_Sys.deps.json
+/Users/salemaker/Desktop/c#/Parking_Lot_Sys/bin/Debug/net10.0/Parking_Lot_Sys.runtimeconfig.json
+/Users/salemaker/Desktop/c#/Parking_Lot_Sys/bin/Debug/net10.0/Parking_Lot_Sys.dll
+/Users/salemaker/Desktop/c#/Parking_Lot_Sys/bin/Debug/net10.0/Parking_Lot_Sys.pdb
+/Users/salemaker/Desktop/c#/Parking_Lot_Sys/obj/Debug/net10.0/Parking_Lot_Sys.dll
+/Users/salemaker/Desktop/c#/Parking_Lot_Sys/obj/Debug/net10.0/refint/Parking_Lot_Sys.dll
+/Users/salemaker/Desktop/c#/Parking_Lot_Sys/obj/Debug/net10.0/Parking_Lot_Sys.pdb
+/Users/salemaker/Desktop/c#/Parking_Lot_Sys/obj/Debug/net10.0/Parking_Lot_Sys.genruntimeconfig.cache
+/Users/salemaker/Desktop/c#/Parking_Lot_Sys/obj/Debug/net10.0/ref/Parking_Lot_Sys.dll
